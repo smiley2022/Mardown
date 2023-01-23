@@ -15,7 +15,7 @@ Pour faire un commit
 ````
 git status  
 git hub  
-gitg    
+gitg      
 
 
 # Lien Url  
