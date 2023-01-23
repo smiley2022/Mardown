@@ -10,4 +10,9 @@
 
 > Nous avons ici ue cutizeehf 
 
-Nous avons imbriqué `uen ctation` ici
+Nous avons imbriqué `uen ctation` ici  
+Pour faire un commit 
+````
+git status  
+git hub  
+gitg  
