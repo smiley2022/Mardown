@@ -20,4 +20,4 @@ gitg
 
 # Lien Url  
 
-Pour aller sur mo, site[codabee](smiley.store)
+Pour aller sur mon site: [codabee](https://smiley.store)
