@@ -29,6 +29,6 @@ Pour aller sur mon site: [codabee](https://smiley.store)
 
 # Liste
 
-*premier  
-    *dexiemem  
-        *fvvfv  
+* premier  
+    * dexiemem  
+        * fvvfv  
